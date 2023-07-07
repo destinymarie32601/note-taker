@@ -12,6 +12,6 @@ app.use(express.json());
 app.use('/', htmlRouter); 
 app.use('/api', apiRouter);
 
-app.listen(port, () => {
-    console.log(`App now listening on port ${port}`);
+app.listen(PORT, () => {
+    console.log(`App now listening on port ${PORT}`);
   });
