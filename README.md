@@ -5,8 +5,8 @@ This is a note taker app that had starter code for the front end, and my job was
 
 ## Links
 
-Github :
-Deployed application : https://github.com/destinymarie32601/note-taker
+Github : https://github.com/destinymarie32601/note-taker
+Deployed application : https://sheltered-tor-16808-98830cbf80d2.herokuapp.com/ 
 
 ## Usage
 This project uses backend Express.js to allow the user to easily write and save notes to the application. When the application is run, the user is able to click the " + " symbol to write a title, and text of a new note. When the user wants to save the note, they can click the save icon, and find their note on the left column. The user can click any previously saved note on the left column and their title and text will reappear on the main note input section. To start this application, type "npm-start" in the terminal. 
